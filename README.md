@@ -1,1 +1,1 @@
-# SMall Projects
+# Small Projects
